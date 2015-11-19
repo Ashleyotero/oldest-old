@@ -1,0 +1,122 @@
+/* wrongdiculous - when something works in IE and not Firefox */
+
+body {
+	background: #595959 url(../images/bg-repeat.jpg) repeat-x;
+	font-family: Tahoman, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ffffff; 
+}
+
+#bg {
+    width: 50%;
+    height: 600px; /* height of bg! */
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: transparent url(../images/upper-bg.jpg) top left no-repeat;
+} 
+
+#content {
+    position: relative;
+    z-index: 1;
+} 
+
+h2, h3 {
+	margin-top: 0px;
+	color:#ffffff;
+	font-size:18px;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+}
+
+#content-text {
+	background-image:url(../images/content-bg.jpg);
+	background-repeat:no-repeat;
+	width:368px;
+	min-height:268px;
+}
+
+.padding {
+	padding:10px;
+}
+
+a {
+	color: #FFFFFF;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.black {
+	color:#000000;
+/*	background-color:#000000; */
+}
+
+/* img { border: 2px solid #FFFFFF; }
+
+.img1 {
+	float: left;
+	margin: 5px 15px 0px 0px;
+} 8?
+
+/* Header */
+#nav {
+	padding-left:10px;
+	}
+
+a.nav {
+	color: #ffffff;
+	text-decoration:none;
+	font-weight:bold;
+	padding:5px;
+}
+
+a.nav:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	border-bottom-style:solid; 
+	border-bottom-color:#000000; 
+	border-bottom-width: 5px; 
+}
+
+/* Content */
+
+#content {
+/*	background: url(images/top.jpg) no-repeat; */
+	width: 853px;
+	margin: 20px auto;
+	padding: 20px 0px 0px 0px;
+}
+
+hr {
+  border: 0;
+  width: 90%;
+  color:#000000;
+  background-color:#000000;
+  height:1px;
+  text-align:center;
+}
+
+/* Footer */
+
+#footer {
+	width: 600px;
+	margin: 0px auto;
+	padding: 3px 0px;
+	color: #787878;
+}
+
+#footer p {
+	margin: 0px;
+	padding-right: 40px;
+	text-align: left;
+	font-size: 10px;
+}
+
+#footer a {
+	color: #FF4000;
+}
+
+.indent {
+	padding-left:15px;
+}

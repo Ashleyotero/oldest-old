@@ -1,0 +1,30 @@
+[25-Sep-2008 13:28:34] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:37] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:40] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:40] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:41] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:41] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:42] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:42] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:42] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:32:42] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 13:35:52] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 14:09:08] PHP Parse error:  syntax error, unexpected ';' in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 14:11:06] PHP Warning:  include(includes/nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/index.php on line 25
+[25-Sep-2008 14:11:06] PHP Warning:  include(includes/nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/index.php on line 25
+[25-Sep-2008 14:11:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ansia/public_html/index.php on line 25
+[25-Sep-2008 14:11:06] PHP Warning:  include(includes/recent_work.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 14:11:06] PHP Warning:  include(includes/recent_work.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 14:11:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/recent_work.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ansia/public_html/index.php on line 28
+[25-Sep-2008 14:57:41] PHP Warning:  include(includes/nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/faqs.php on line 25
+[25-Sep-2008 14:57:41] PHP Warning:  include(includes/nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/faqs.php on line 25
+[25-Sep-2008 14:57:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ansia/public_html/faqs.php on line 25
+[25-Sep-2008 14:57:41] PHP Warning:  include(includes/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/faqs.php on line 43
+[25-Sep-2008 14:57:41] PHP Warning:  include(includes/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/faqs.php on line 43
+[25-Sep-2008 14:57:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ansia/public_html/faqs.php on line 43
+[25-Sep-2008 14:57:50] PHP Warning:  include(includes/nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/faqs.php on line 25
+[25-Sep-2008 14:57:50] PHP Warning:  include(includes/nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/faqs.php on line 25
+[25-Sep-2008 14:57:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ansia/public_html/faqs.php on line 25
+[25-Sep-2008 14:57:50] PHP Warning:  include(includes/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/faqs.php on line 43
+[25-Sep-2008 14:57:50] PHP Warning:  include(includes/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ansia/public_html/faqs.php on line 43
+[25-Sep-2008 14:57:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ansia/public_html/faqs.php on line 43

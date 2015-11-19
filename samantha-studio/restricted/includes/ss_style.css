@@ -1,0 +1,24 @@
+body {background-color:#434343; font-family: Arial, Helvetica, sans-serif;	font-size:12px;	color:#ffffff;}
+a, a:link, a:visited {color:#00ada8; text-decoration:none; font-weight:bold;}
+a:hover, a:active {color:#79cbc9; text-decoration:underline;}
+a.nav, a.nav:link, a.nav:visited {color:#ffffff; font-weight:bold;}
+a.nav:hover, a.nav:active {color:#434343; background-color:#00ada8;	font-weight:bold;}
+#header {text-align:center; font-size:16px;	font-weight:bold; padding:15px;}
+#content {background-color:#571113;	color:#ffffff; font-size:12px; padding:10px;}
+.maroon {color:#571113;}
+.teal {color:#00ada8;}
+.gray {color:#434343;}
+.light_teal {color:#79cbc9;}
+.maroon_bg {background-color:#571113;}
+.teal_bg {background-color:#00ada8;}
+.gray_bg {background-color:#434343;}
+.light_teal_bg {background-color:#79cbc9;}
+.padding {padding:10px;}
+.padding_left {padding-left:25px;}
+.myinputstyle {border: 1px solid #ffffff; background-color:#434343;	font-family: tahoma, helvetica, sans-serif;	font-style: normal;	font-size: 14px; color: #ffffff;}
+
+/** You can use this style for your LABEL elements **/
+.mylabelstyle {font-family: tahoma, helvetica, sans-serif; font-style: bold; font-size: 13px; color: #ffffff;}
+.big_font {font-size:24px; line-height:18px;}
+.table_border {border:1px; border-color:#000000;}
+.no_border {text-decoration:none;}

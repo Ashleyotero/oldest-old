@@ -1,0 +1,37 @@
+Description
+============
+Anglia is an elegant wordpress theme with multiple styles, developed by Towfiq I.
+
+Features
+=========
+1.  10 different styles.
+2.  Unique homepage or default homepage*
+3.  Jquery Content Slider on homepage
+4.  Featured posts on homepage
+5.  Latest Posts with carousel effect.
+6.  Widget ready sidebar and footer.
+7.  Customizable Social Icons on every page.
+8.  Integrated Breadcrubm
+9.  Editable Footer text.
+10. Easy to use theme options.
+11. Gravatar Support.
+12. Drop-down category Menu
+13. Highlighted admin comment.
+14. Valid Xhtml CSS3
+15. One Click Install. No plugin required.
+16. Cross-Browser compatible.
+17. Wordpress 3.0 ready
+18. No hidden, paid or sponsored links in the theme.
+
+Note: If you don't want to use the unique homepage, just delete the "index.php" from Angelia 
+theme folder and then rename the "blog.php" to "index.php"
+
+
+Tags 
+=====
+light, fixed-width, custom-colors, theme-options, right-sidebar
+
+
+
+For Further information, Visit http://www.towfiqi.com/
+

@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body  {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-color:#fff;
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	color: #000;
+}
+a {  
+    color:#c42027;
+	font-weight:bold;
+	text-decoration:none;
+}  
+a:hover {  
+    text-decoration:underline;  
+    color:#fff;  
+}

@@ -1,0 +1,31 @@
+/*Style-1 CSS */
+#sliderwrap, .midrow { background:url(../images/color3.gif) repeat-x;}
+#latest{ background:url(../images/color3p.png) repeat-x;}
+
+h1, h2, h3, h4, h5, h6, .post h2 a, #sidebar .widgettitle, .postedin a, .tags a, #commentform p a, #sidebar ul li a, .site_info a, #featured_two_content h2 a,.authcomment .avatar a, .post p a:link, .post p a:visited, .edit a, #sidebar ul li a { color:#56d4e0;}
+#crumbs, #crumbs a, .current{color:#4d8f97;}
+
+.post p a.more-link { color:#FFF;}
+
+.comments, .comments-single { background:url(../images/comments3.png) no-repeat;}
+
+.post p a.more-link, #submit, .prv_page a, .nxt_page a { background:url(../images/pages_s3.png) no-repeat;}
+#sidebar ul li ul li{background:url(../images/list-item_s3.png) no-repeat left center;}
+
+.jcarousel-angelia .jcarousel-next-horizontal {background: transparent url(../images/carousel_right_s3.png) no-repeat -14px 0;}
+.jcarousel-angelia .jcarousel-prev-horizontal {background: transparent url(../images/carousel_left_s3.png) no-repeat 0 0;}
+.jcarousel-angelia .jcarousel-next-horizontal:hover {background-position: -14px 0;}
+.jcarousel-angelia .jcarousel-next-horizontal:active {background-position: 0 0;}
+.jcarousel-angelia .jcarousel-next-disabled-horizontal,
+.jcarousel-angelia .jcarousel-next-disabled-horizontal:hover,
+.jcarousel-angelia .jcarousel-next-disabled-horizontal:active {cursor: default;background-position: 0 0;}
+.jcarousel-angelia .jcarousel-prev-horizontal:hover {background-position: 0 0;}
+.jcarousel-angelia .jcarousel-prev-horizontal:active {background-position: -14px 0;}
+.jcarousel-angelia .jcarousel-prev-disabled-horizontal,
+.jcarousel-angelia .jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-angelia .jcarousel-prev-disabled-horizontal:active {cursor: default; background-position: -14px 0;}
+
+ol#controls li a{background:url(../images/slider_control_s3.png) no-repeat;}
+ol#controls li.current a{ background:url(../images/slider_control_s3.png) no-repeat -15px 0;}
+
+.commentmetadata{ background:url(../images/comments_meta_s3.png) no-repeat;}

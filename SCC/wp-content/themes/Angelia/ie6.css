@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo a{ position:relative; z-index:9999px;}
+.pages ul li, .pages li a { background:none;}
+
+.categories li ul.children li{ padding-bottom:1px;}
+
+.tooltip{ background:#e8e8e8; border:solid 1px #ccc; height:30px;}
+
+.social{ position:absolute; top:0; left:0;}
+.social ul li a.ang_tw{background:url(images/Social.gif);}
+.social ul li a.ang_fb{background:url(images/Social.gif) 0px -34px;}
+.social ul li a.ang_ms{background:url(images/Social.gif) 0px -68px;}
+.social ul li a.ang_rss{background:url(images/Social.gif) 0px -102px;}
+.social ul li a.ang_tw:hover{background:url(images/Social.gif) 34px 0px;}
+.social ul li a.ang_fb:hover{background:url(images/Social.gif) 34px -34px;}
+.social ul li a.ang_ms:hover{background:url(images/Social.gif) 34px -68px;}
+.social ul li a.ang_rss:hover{background:url(images/Social.gif) 34px -102px;}
+.social{background:url(images/social_top.gif) no-repeat;}
+.social ul{background:url(images/social_bg.gif) repeat-y;}
+.social_bottom{ background:url(images/social_bottom.gif) no-repeat top;}
+
+#sliderwrap, .midrow, #featured_two{float:none;}
+.thumb{ margin-left:5px;}
+.sframe { margin-left:20px;height:expression(this.scrollHeight>209?"210px":"auto");}
+#featured_two{ overflow:hidden;}
+#posts{ width:620px; position:relative; margin-left:15px; overflow:visible;}
+.post{ width:620px; overflow: hidden;}
+.post img{max-width:630px;width: expression(this.width > 630 ? 630: true);}
+a.more-link { color:#FFF;}
+.midrow{ height:277px; position:relative;}
+.widgettitle{ position:relative;}
+#sidebar, #container{ }
+#sidebar { width:245px;position:relative; margin-left:40px;}
+
+.footbar li{ float:left;}
+
+#sidebar ul li ul li{ background:url(images/list-item.gif) left no-repeat;}
+.container_bg, .container_bottom{}
+.container_top{}
+
+.foot, .footbar{ position:relative;}
+.footbar { margin-left:50px;}
+.footbar ul{ width:920px;}
+.footbar ul li ul{ width:auto;}
+#footer{ height:auto;}
+
+.comments { position:absolute;}
+.comments a, .comments-single a{ margin-left:2px;line-height:16px;}
+.commentbody {}
+.site_info{ width:500px; float:none;}

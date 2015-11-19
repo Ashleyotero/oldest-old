@@ -1,0 +1,12 @@
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr> 
+      	<td align="center" valign="top"><a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','images/nav_over_01.jpg',0)"><img src="images/nav_01.jpg" alt="home" name="home" width="72" height="110" border="0" id="home" /></a></td>
+        <td align="center" valign="top"><a href="murals.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('murals','','images/nav_over_02.jpg',1)"><img src="images/nav_02.jpg" alt="murals" name="murals" width="72" height="110" border="0" id="murals" /></a></td>
+        <td align="center" valign="top"><a href="wall_finishes.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wall finishes','','images/nav_over_03.jpg',1)"><img src="images/nav_03.jpg" alt="wall finishes" name="wall finishes" width="72" height="110" border="0" id="wall finishes" /></a></td>
+        <td align="center" valign="top"><a href="childrens_rooms.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('children','','images/nav_over_04.jpg',1)"><img src="images/nav_04.jpg" alt="children's rooms" name="children" width="72" height="110" border="0" id="children" /></a></td>
+        <td align="center" valign="top"><a href="portraits.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('portraits','','images/nav_over_05.jpg',1)"><img src="images/nav_05.jpg" alt="portraits" name="portraits" width="72" height="110" border="0" id="portraits" /></a></td>
+        <td align="center" valign="top"><a href="jewelry.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('jewelry','','images/nav_over_06.jpg',1)"><img src="images/nav_06.jpg" alt="jewelry" name="jewelry" width="72" height="110" border="0" id="jewelry" /></a></td>
+        <td align="center" valign="top"><a href="about.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about sam','','images/nav_over_07.jpg',1)"><img src="images/nav_07.jpg" alt="about sam" name="about sam" width="72" height="110" border="0" id="about sam" /></a></td>
+        <td align="center" valign="top"><a href="contact.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','images/nav_over_08.jpg',0)"><img src="images/nav_08.jpg" alt="contact" name="contact" width="71" height="110" border="0" id="contact" /></a></td>
+      </tr>
+    </table>

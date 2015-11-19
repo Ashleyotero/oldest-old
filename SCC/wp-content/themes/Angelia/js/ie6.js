@@ -1,0 +1,3 @@
+/* <![CDATA[ */
+$(function(){$(document).pngFix();});
+/* ]]> */

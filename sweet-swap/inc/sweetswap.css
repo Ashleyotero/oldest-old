@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background-image:url(../img/background.jpg);
+background-repeat:no-repeat;
+margin: 5% 10% 0px 10%;
+background-color:#000000;
+font-family:Arial, Helvetica, sans-serif;
+}
+p {
+	margin: 2px 20px;
+}
+h1, h2, h3 {
+	margin: 10px;
+	padding: 10px;
+}
+#content_div{
+margin:auto;
+text-align:left;
+width:840px;
+height: 365px;
+background-image:url(../img/frame.png);
+background-repeat: no-repeat;
+/*padding:5px 5px 20px 5px;*/
+/* border-bottom:1px solid #000000; */
+}
+#header{
+float:left;
+}
+#footer{
+color:#FFFFFF;
+font-size:smaller;
+margin-top:10px;
+}
+#navigation{
+margin-right: 5px;
+}
+.max_height{height:400px; overflow:auto;}
+#container{
+width:840px;
+margin:auto;
+}
+.pink_dot{
+color:#ff0378;
+}
+a, a:visited, a:active {
+color: #fff;
+font-size:12px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover {
+color: #dadada;
+font-size:12px;
+text-decoration:none;
+text-transform:uppercase;
+}
+.clear {
+	clear: both;
+	line-height: 1px;
+}
+a.black:link {text-decoration: none; color:#000000;}
+a.black:visited {text-decoration: none; color:#000000;}
+a.black:active {text-decoration: none; color:#000000;}
+a.black:hover {text-decoration: underline; color: #000000;}

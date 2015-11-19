@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^(.*)\.swap$ page.php?page_id=$1 [NC]

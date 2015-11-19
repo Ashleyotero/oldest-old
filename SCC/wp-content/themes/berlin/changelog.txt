@@ -1,0 +1,16 @@
+	== Changelog ==
+These are the changes seen by Berlin since it was first available for public download.
+
+= Version 2.3 (November 6, 2011) =
+	* Added TGM Plugin Activation PHP class
+	* Added Option Tree theme options
+	* Updated comments.php
+	* Fixed various php/html bugs
+
+= Version 2.2 (February 22, 2011) =
+	* Added support for WordPress 3.0 menu and dropdown menus
+	*
+
+= Version 1.0 (January 10, 2008) =
+	* Initial release
+

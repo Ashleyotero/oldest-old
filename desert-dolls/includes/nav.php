@@ -1,0 +1,1 @@
+<a href="#"><img src="images/nav/booking.jpg" border="0"></a><a href="#"><img src="images/nav/the_dolls.jpg" border="0"></a><a href="#"><img src="images/nav/shows.jpg" border="0"></a><a href="#"><img src="images/nav/contact.jpg" border="0"></a>

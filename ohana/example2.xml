@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery> 
+	<album title="" lgPath="gallery/" tnPath="gallery/thumbs/">
+	<img src="1.jpg" caption="Nunc malesuada molestie nibh." />
+	<img src="2.jpg" caption="Lorem ipsum dolor sit amet, consectetuer adipiscing elit." />
+	<img src="3.jpg" caption="Nulla fermentum rutrum nisi. Vivamus aliquet diam at justo." />
+	<img src="4.jpg" caption="Nullam id nibh at libero egestas commodo." />
+	<img src="5.jpg" caption="Nunc malesuada molestie nibh." />
+	<img src="6.jpg" caption="Lorem ipsum dolor sit amet, consectetuer adipiscing elit." />
+	<img src="7.jpg" caption="Nulla fermentum rutrum nisi. Vivamus aliquet diam at justo." />
+	<img src="8.jpg" caption="Nullam id nibh at libero egestas commodo." />
+	<img src="9.jpg" caption="Nunc malesuada molestie nibh." /></album>
+</gallery>

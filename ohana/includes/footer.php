@@ -1,0 +1,2 @@
+<br />
+    copyright &copy; 2007 Ohana Design &nbsp;&nbsp; &bull; &nbsp;&nbsp; <a href="#" class="footer">Privacy Policy</a> &nbsp;&nbsp; &bull; &nbsp;&nbsp; <a href="#" class="footer">Copyright Notice</a>

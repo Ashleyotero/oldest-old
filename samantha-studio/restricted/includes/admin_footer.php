@@ -1,0 +1,1 @@
+<span class="teal">&copy; 2008 samanthaodom.com</span>.  website by: <a href="http://www.829media.com" target="_blank">829media.com</a>

@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url(../images/bg.jpg);
+	background-position:top center;
+	background-repeat:no-repeat;
+	background-color:#000;
+	font-family:arial;
+	font-size:11px;
+	color:#808080;
+}
+#container {
+	width:100%;
+	}
+a, a:link, a:active {
+	color:#fff;
+	text-decoration:none;
+	}
+a:hover {
+	color:#8a5126;
+	text-decoration:none;
+	}
+#ribbon {
+	margin-top:170px;
+	width:100%;
+	background-color:#350709;
+	border: 1px solid #4c1616;
+	clear: both;
+	text-transform:uppercase;
+	font-size:10px;
+	padding:2px;
+	color:#ccc;
+	text-align:center;
+	letter-spacing:8px;
+}
+.align-center {
+	text-align:center;
+	}
+#title {
+	font-size:23px;
+	color:#ccc;
+	border: 1px solid #ccc;
+	text-align:center;
+	padding:10px;
+	width:400px;
+	margin-top:130px;
+	letter-spacing:4px;
+	font-weight:normal;
+	}
+.text {
+/*	color:#8a5126; 
+	color: #ce893b;*/
+	font-size:11px;
+	text-align:center;
+	letter-spacing:1px;
+	}
+.red_box {
+	text-align:center;
+	background-color:#350709;
+	width:5px;
+	height:5px;
+	}
+#links {
+	float:left;
+	width:250px;
+	letter-spacing:1px;
+	line-height: 16px;
+	border: 1px solid #4c1616;
+	padding:10px 15px 20px 20px;
+	margin-left:160px;
+	margin-bottom: 10px;
+	}
+#contact {
+	margin-left:447px;
+	margin-right:160px;
+	letter-spacing:1px;
+	padding:0px 0px 0px 0px;
+	border-bottom: 1px solid #4c1616;
+	text-align:right;
+	}
+.lineh {
+	line-height:16px;
+	}
+.lineh2 {
+	line-height:26px;
+	}
+.margr {
+	margin-right:160px;
+	}
+.white_title {
+	
+	font-size: 13px;
+	color: #cccccc;
+}
